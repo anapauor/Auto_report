@@ -6,6 +6,7 @@ This is a program for sales report generator-
 'sales.py'  contains the atomatic reporting program
 
 'test_sales.py' contains the tests performed to the processing program 
+
 'report.html' and 'table_content.html' are the structure for html outputs
 
 
